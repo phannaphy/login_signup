@@ -33,7 +33,7 @@ class SignupPage extends StatelessWidget {
                       height: 20,
                     ),
                     Text(
-                      "Create your account",
+                      "Create your account first",
                       style: TextStyle(fontSize: 15, color: Colors.grey[700]),
                     )
                   ],
